@@ -15,3 +15,8 @@ coverage/
 # Build output
 dist/
 build/
+
+
+allure-results/
+allure-report/
+
