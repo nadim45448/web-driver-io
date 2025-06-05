@@ -1,0 +1,17 @@
+node_modules
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# macOS file system
+.DS_Store
+
+# Coverage output
+coverage/
+
+# Build output
+dist/
+build/
